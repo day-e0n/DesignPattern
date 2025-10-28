@@ -1,0 +1,3 @@
+userId,password,name,userType,phone,email,isAdmin,subscriptionStartDate
+wida,1234,위다연,student,01036737067,wida10@dankook.ac.kr,false,
+admin,admin,admin,admin,01011112222,admin@gmail.com,true,
