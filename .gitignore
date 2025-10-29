@@ -1,2 +1,3 @@
 # DB로 사용되는 csv 무시
 src/*.csv
+src/*.class
